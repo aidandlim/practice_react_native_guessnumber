@@ -1,4 +1,4 @@
-# Guess Number App
+# [PRACTICE - React Natice] Guess Number Game Application
 
 ***Not Yet***
 
