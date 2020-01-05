@@ -53,7 +53,7 @@ const StartGameScreen = props => {
 
     return (
         <ScrollView>
-            <KeyboardAvoidingView behavior='position' keyboardVerticalOffset={30}>
+            <KeyboardAvoidingView behavior='position' keyboardVerticalOffset={30 }>
                 <TouchableWithoutFeedback onPress={() => {
                     Keyboard.dismiss();
                 }}>
